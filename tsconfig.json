@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"module": "CommonJS",
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"downlevelIteration": true,
+		"outDir": "out",
+		"strict": true
+	},
+	"exclude": ["node_modules"]
+}
